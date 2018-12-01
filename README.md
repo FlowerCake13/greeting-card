@@ -32,10 +32,10 @@ element {
 }
 ```
 
-Resources:
-Color Scheme Designer: http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
-CSS Shapes: https://css-tricks.com/the-shapes-of-css/
-CSS Positioning: https://www.w3schools.com/css/css_positioning.asp
-Full page background images: https://www.w3schools.com/howto/howto_css_full_page.asp
-Full page background video: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
-Click Events: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+## Resources:
+ * Color Scheme Designer: http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+ * CSS Shapes: https://css-tricks.com/the-shapes-of-css/
+ * CSS Positioning: https://www.w3schools.com/css/css_positioning.asp
+ * Full page background images: https://www.w3schools.com/howto/howto_css_full_page.asp
+ * Full page background video: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
+ * Click Events: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
